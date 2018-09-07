@@ -1,2 +1,2 @@
-# e2km
-Speical System .
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
